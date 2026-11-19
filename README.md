@@ -52,9 +52,8 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name: AARON MARIYAN A
-
-### Register Number: 212224040004
+### Name: KISHORE KAVIN S
+### Register Number: 212224230132
 
 ```
 import torch
